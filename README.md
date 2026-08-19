@@ -1,6 +1,8 @@
 # André Sabadine - Fullstack Developer and Project Manager
 Focused on building consistent backends and open-tooling/open-source enthusiast
 
+[Portfolio](https://as-portfolio-website-five.vercel.app/) - [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-sabadine/) - [Email](andresabadine@gmail.com)
+
 # Work and Projects
 **- Project Manager/Owner at Resoluto** (2024 - Present): Backlog management and development of new strategies and tools to optimize results.
 
