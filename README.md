@@ -6,7 +6,7 @@ Focused on building consistent backends and open-tooling/open-source enthusiast
 # Work and Projects
 **- Project Manager/Owner at Resoluto** (2024 - Present): Backlog management and development of new strategies and tools to optimize results.
 
-**- Fito+**: Aplicativo de inventário florestal e análise fitossociológica, uma releitura enxuta do FITOPAC que resolve duas dores do original: os indivíduos são digitados numa grade dentro do próprio app, sem importar arquivo externo, e as tabelas de inventário saem prontas em Excel, junto do relatório fitossociológico completo em Excel e PDF.
+**- Fito+**: A forest inventory and phytosociological analysis app—a streamlined reimagining of FITOPAC that addresses two pain points of the original: individual data is entered directly into a grid within the app (eliminating the need to import external files), and inventory tables are generated ready-made in Excel, alongside a complete phytosociological report in both Excel and PDF formats.
 
 **- Infrastructure**: Daily Arch Linux user (KDE Plasma and dwm most of time). Focused on deployments using Docker, CI/CD pipelines and exploring improvements for those activities. Learning Kubernetes for container orchestration.
 
