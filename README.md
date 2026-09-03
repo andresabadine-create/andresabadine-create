@@ -1,5 +1,5 @@
 # André Sabadine - Fullstack Developer and Project Manager
-Focused on building consistent backends and open-tooling/open-source enthusiast
+Open-source enthusiast, infrastructure and fullstack focused.
 
 [Portfolio](https://as-portfolio-website-five.vercel.app/) - [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-sabadine/) - [Email](andresabadine@gmail.com)
 
