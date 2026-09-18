@@ -8,7 +8,7 @@ Open-source enthusiast, infrastructure and fullstack focused.
 
 **- Fito+**: A forest inventory and phytosociological analysis app—a streamlined reimagining of FITOPAC that addresses two pain points of the original: individual data is entered directly into a grid within the app (eliminating the need to import external files), and inventory tables are generated ready-made in Excel, alongside a complete phytosociological report in both Excel and PDF formats.
 
-**- Infrastructure**: Daily Arch Linux user (KDE Plasma and dwm most of time). Focused on deployments using Docker, CI/CD pipelines and exploring improvements for those activities. Learning Kubernetes for container orchestration.
+**- Infrastructure**: Daily Arch Linux user (Xfce4 and dwm most of time). Focused on deployments using Docker, CI/CD pipelines and exploring improvements for those activities. Learning Kubernetes for container orchestration.
 
 # Technical Stack
 **Languages**: Java (Spring Boot), Python (Django), TypeScript/Node.js
