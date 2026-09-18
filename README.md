@@ -4,7 +4,7 @@ Open-source enthusiast, infrastructure and fullstack focused.
 [Portfolio](https://as-portfolio-website-five.vercel.app/) - [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-sabadine/) - [Email](andresabadine@gmail.com)
 
 # Work and Projects
-**- Project Manager/Owner at Resoluto** (2024 - Present): Backlog management and development of new strategies and tools to optimize results.
+**- Project Manager at Resoluto** (2024 - Present): Backlog management and development of new strategies and tools to optimize results.
 
 **- Fito+**: A forest inventory and phytosociological analysis app—a streamlined reimagining of FITOPAC that addresses two pain points of the original: individual data is entered directly into a grid within the app (eliminating the need to import external files), and inventory tables are generated ready-made in Excel, alongside a complete phytosociological report in both Excel and PDF formats.
 
