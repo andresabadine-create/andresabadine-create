@@ -19,4 +19,4 @@ Open-source enthusiast, infrastructure and fullstack focused.
 
 **Frontend**: React, Vue (Nuxt.js), Tailwind CSS
 
-**Infrastructure**: Linux, Docker, GitHub Actions
+**Infrastructure**: Linux, Microsoft 365, Docker, GitHub Actions
