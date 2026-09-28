@@ -8,7 +8,7 @@ Open-source enthusiast, infrastructure and fullstack focused.
 
 **- Web development services**: I maintain 5 websites for different companies at the moment, most of them is based on Vue (Nuxt.js) + TypeScript and they are landing pages with different type of structures for client prospect. 
 
-**- Fito+**: A forest inventory and phytosociological analysis app—a streamlined reimagining of FITOPAC that addresses two pain points of the original: individual data is entered directly into a grid within the app (eliminating the need to import external files), and inventory tables are generated ready-made in Excel, alongside a complete phytosociological report in both Excel and PDF formats.
+**- Fito+**: A forest inventory and phytosociological analysis app streamlined reimagining of FITOPAC that addresses two pain points of the original: individual data is entered directly into a grid within the app (eliminating the need to import external files), and inventory tables are generated ready-made in Excel, alongside a complete phytosociological report in both Excel and PDF formats.
 
 **- Infrastructure**: Daily Arch Linux user (Xfce4 and dwm most of time). Focused on deployments using Docker, CI/CD pipelines and exploring improvements for those activities. Learning Kubernetes for container orchestration.
 
