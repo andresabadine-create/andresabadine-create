@@ -1,6 +1,8 @@
 # André Sabadine - Fullstack Developer and Project Manager
 infrastructure enthusiast and fullstack development.
 
+**Hobbies**: DotA, osu!, Dofus :)
+
 [Portfolio](https://as-portfolio-website-five.vercel.app/) - [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-sabadine/) - [Email](andresabadine@gmail.com)
 
 # Work and Projects
