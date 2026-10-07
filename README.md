@@ -3,7 +3,7 @@ infrastructure enthusiast and fullstack development.
 
 **Hobbies**: DotA, osu!, Dofus :)
 
-[Portfolio](https://as-portfolio-website-five.vercel.app/) - [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-sabadine/) - [Email](andresabadine@gmail.com)
+[Portfolio](https://as-portfolio-website-five.vercel.app/) - [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-sabadine/) - [Email](andresabadine@gmail.com) - [FitoPlus](https://fitoplus.site/)
 
 # Work and Projects
 **- Project Manager at Resoluto** (2024 - Present): Backlog management and development of new strategies and tools to optimize results.
